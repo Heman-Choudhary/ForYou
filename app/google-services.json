@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573673034591",
+    "project_id": "foryou-66853",
+    "storage_bucket": "foryou-66853.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573673034591:android:65ae88c8ad1b73b2c19cea",
+        "android_client_info": {
+          "package_name": "com.android.ForYou"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLbeAJAqm5AWhuLCQa9-xeAq6P0R267vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
